@@ -7,7 +7,10 @@
  
 ## Dependencies
  
+org.springframework.boot:spring-boot-starter-actuator
 org.springframework.boot:spring-boot-starter-web
+org.springframework.boot:spring-boot-devtools
+org.springframework.boot:spring-boot-starter-mustache
  
 ## Additional Documentation
 
